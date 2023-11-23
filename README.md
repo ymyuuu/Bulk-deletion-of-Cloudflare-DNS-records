@@ -2,6 +2,9 @@
 
 这个 Python 脚本允许用户列出并批量删除特定 Cloudflare Zone ID 下的 DNS 记录。
 
+<img width="1489" alt="image" src="https://github.com/ymyuuu/Bulk-deletion-of-Cloudflare-DNS-records/assets/135582157/67702e1c-8d6d-4a9a-abce-f03a0afe2979">
+
+
 ## 如何使用
 
 ### 在 Replit 上运行
